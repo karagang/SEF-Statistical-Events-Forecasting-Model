@@ -1,0 +1,9 @@
+{
+  "region": "McDougall Sound Area",
+  "source_workbook": "test45obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 5,
+  "input_sha256": "9bc5bff34180843a1b536900d25af2689d7d7fbd17b60177169950c59a296ae6",
+  "warnings": []
+}

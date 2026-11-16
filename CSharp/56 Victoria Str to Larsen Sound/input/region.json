@@ -1,0 +1,9 @@
+{
+  "region": "Victoria Strait To Larson Sound - VCPI: Obs",
+  "source_workbook": "test56.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 9,
+  "input_sha256": "7acef1775c978530c98150807f5c796ff776e572198dc4262fc06f2d5d39737d",
+  "warnings": []
+}

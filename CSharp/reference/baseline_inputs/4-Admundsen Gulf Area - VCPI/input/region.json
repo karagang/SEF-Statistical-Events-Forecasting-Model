@@ -1,0 +1,9 @@
+{
+  "region": "Admundsen Gulf Area - Very Close Pack Ice (VCPI)",
+  "source_workbook": "test4obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 6,
+  "input_sha256": "58902481f4c92caf20fafde9ce21086d3fc312c76e26cb1cfb2208c08fa8461e",
+  "warnings": []
+}

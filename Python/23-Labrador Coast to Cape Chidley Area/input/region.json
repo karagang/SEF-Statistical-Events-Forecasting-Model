@@ -1,0 +1,9 @@
+{
+  "region": "Labrador Coast to Cape Chidley Area - Bergy Water",
+  "source_workbook": "test23obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 4,
+  "input_sha256": "dae60c1a1e245a7f0c35f38fc0db74abc877d566aa05ccede8f34c7690dc4280",
+  "warnings": []
+}

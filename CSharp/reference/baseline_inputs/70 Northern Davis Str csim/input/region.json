@@ -1,0 +1,9 @@
+{
+  "region": "Northern Davis Strait - CSIM: Obs",
+  "source_workbook": "test70.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 8,
+  "input_sha256": "816c0ec061897925313c287ad9a54462ba2668e16a9c93814036588fe4ff4908",
+  "warnings": []
+}

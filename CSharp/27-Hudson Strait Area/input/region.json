@@ -1,0 +1,9 @@
+{
+  "region": "Hudson Strait Area - Bergy Water",
+  "source_workbook": "test27obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 11,
+  "input_sha256": "448d3aa76f3989900002b87f2a242c45ae110d61fb05a36062d430aeacfc662e",
+  "warnings": []
+}

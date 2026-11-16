@@ -1,0 +1,9 @@
+{
+  "region": "South Lab Coast  CSIM",
+  "source_workbook": "test61.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 3,
+  "input_sha256": "8a6391220cd4110b3e7a0cd8aa3adfd2505f07a538842bf41b161780f2e2c606",
+  "warnings": []
+}

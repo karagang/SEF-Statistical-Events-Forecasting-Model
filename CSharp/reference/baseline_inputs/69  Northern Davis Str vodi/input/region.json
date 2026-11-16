@@ -1,0 +1,9 @@
+{
+  "region": "Northern Davis Strait - VODI: Obs",
+  "source_workbook": "test69.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 8,
+  "input_sha256": "143348be92cf7ad6bae696a54d83be2b6f3fbd57ccc2e855e85ee8e8f325ed8f",
+  "warnings": []
+}

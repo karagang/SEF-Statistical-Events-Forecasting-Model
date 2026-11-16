@@ -1,0 +1,9 @@
+{
+  "region": "Eastern Hudson Bay",
+  "source_workbook": "test58.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 5,
+  "input_sha256": "151f86d047bca56fdea2ca33d35a1c0db94dbd3daa4c34bc32201952e4e0e25b",
+  "warnings": []
+}

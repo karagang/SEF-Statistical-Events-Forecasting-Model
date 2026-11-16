@@ -1,0 +1,9 @@
+{
+  "region": "Cape Lisburne to Point Barrow Route - CSIM",
+  "source_workbook": "test14obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 2,
+  "input_sha256": "f8a3f792dc24c4908bfbacef6594f5bcad1afcef4812281968530994813c943a",
+  "warnings": []
+}

@@ -1,0 +1,9 @@
+{
+  "region": "Queen Maud Area - Very Close Pack Ice (VCPI)",
+  "source_workbook": "test3obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 18,
+  "input_sha256": "7e1c296ae8bc054d6ff7c05af76a372d1acad451a250ec4fdc05a0940ae8dc62",
+  "warnings": []
+}

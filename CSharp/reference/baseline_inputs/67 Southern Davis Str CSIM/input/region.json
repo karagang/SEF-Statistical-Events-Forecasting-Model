@@ -1,0 +1,9 @@
+{
+  "region": "Southern Davis Str CSIM",
+  "source_workbook": "test67.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 2,
+  "input_sha256": "092e7ca898b4a083e277326a6cbdc36b7962f83f39434f456eae138a5df1bddb",
+  "warnings": []
+}

@@ -1,0 +1,9 @@
+{
+  "region": "South Lab Coast   ODI",
+  "source_workbook": "test59.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 3,
+  "input_sha256": "7263d29755eaeae3d2cae37d2383e64b9fc16d39ec89230e0682976612697429",
+  "warnings": []
+}

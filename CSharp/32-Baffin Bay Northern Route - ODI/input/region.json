@@ -1,0 +1,9 @@
+{
+  "region": "Baffin Bay Northern Route - ODI",
+  "source_workbook": "test32obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 9,
+  "input_sha256": "f2ce4a0eaf5990d80e7cbc62b6d268d9f11c45ef483595b116d9c42ac4f40933",
+  "warnings": []
+}

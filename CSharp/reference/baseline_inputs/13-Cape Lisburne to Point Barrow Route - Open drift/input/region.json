@@ -1,0 +1,9 @@
+{
+  "region": "Cape Lisburne to Point Barrow Route - Open Drift Ice",
+  "source_workbook": "test13obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": null,
+  "input_sha256": "fbe5fe3bf92a2a297f23fccbffa7119f8d08a464a00d1bcccbed1fc84935d195",
+  "warnings": []
+}

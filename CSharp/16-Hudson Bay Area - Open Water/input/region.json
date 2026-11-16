@@ -1,0 +1,9 @@
+{
+  "region": "Hudson Bay Area - Open Water",
+  "source_workbook": "test16obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 12,
+  "input_sha256": "697e428fa4a876cc8c7aa8397a9fa68ee6874501d35c0de95a54b7b86467ad55",
+  "warnings": []
+}

@@ -1,0 +1,15 @@
+# Local environments and build products
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/bin/
+**/obj/
+**/artifacts/
+**/_report_build/
+**/_report_output/
+**/.chart-data-*/
+**/output-20*/
+**/reports/
+CSharp/SEFM.exe
+*.user
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "region": "Eureka Sound Area  VCPI",
+  "source_workbook": "test49obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 4,
+  "input_sha256": "60558a4b158f75b23bff880917da1fec6e57bd5f4963e1e3efb34da2a396621c",
+  "warnings": []
+}

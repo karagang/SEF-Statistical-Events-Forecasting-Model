@@ -1,0 +1,9 @@
+{
+  "region": "Eureka Sound Area  CSIM",
+  "source_workbook": "test50obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 10,
+  "input_sha256": "983a363cee8e2863b518a77edef3bb37b0932bf6b7ce4708e08d49628908bbf3",
+  "warnings": []
+}

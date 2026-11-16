@@ -1,0 +1,9 @@
+{
+  "region": "Southern Davis Str ODI",
+  "source_workbook": "test65.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 3,
+  "input_sha256": "ee1422497c93276e331693ad7c41e758cc7b9debd0d87208d9b10b2c8f8b8bfc",
+  "warnings": []
+}

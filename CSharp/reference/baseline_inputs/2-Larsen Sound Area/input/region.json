@@ -1,0 +1,9 @@
+{
+  "region": "Larsen Sound Area - Very Close Pack Ice (VCPI)",
+  "source_workbook": "test2obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 9,
+  "input_sha256": "3019fd22c08b67c00dfc1cecf310ee12cac360a90a2036706b5f6fa98bb3343a",
+  "warnings": []
+}

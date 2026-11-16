@@ -1,0 +1,9 @@
+{
+  "region": "Coronation Gulf Area - CSIM - Open Water",
+  "source_workbook": "test21obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 4,
+  "input_sha256": "96e28eeb2d53e8d19cf2f18ebda8457df718c30f1d0b021d3519127cf661f033",
+  "warnings": []
+}

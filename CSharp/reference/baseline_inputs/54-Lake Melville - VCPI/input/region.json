@@ -1,0 +1,11 @@
+{
+  "region": "Lake Melville - VCPI",
+  "source_workbook": "test54obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 11,
+  "input_sha256": "e316e02f151098cfb4abdb1ad3b2b01f147e4e425e5f8bd655c88d19b05acb37",
+  "warnings": [
+    "Workbook observations differ from yobs.txt; CSV uses the workbook as requested."
+  ]
+}

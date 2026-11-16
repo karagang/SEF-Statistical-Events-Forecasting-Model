@@ -1,0 +1,9 @@
+{
+  "region": "Admundsen Gulf Area - Complete Sea Ice Melt (CSIM)",
+  "source_workbook": "test5obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 5,
+  "input_sha256": "1490aafcfdbdda6a7483665fd3855eb0b62b44d8f588528602638fb2e955c828",
+  "warnings": []
+}

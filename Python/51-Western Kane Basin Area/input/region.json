@@ -1,0 +1,9 @@
+{
+  "region": "Western Kane Basin Area",
+  "source_workbook": "test51obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 12,
+  "input_sha256": "f6b8143c62524002b657a5bdbc065d39729cc5f8ef852fbab638e1a59c81ea51",
+  "warnings": []
+}

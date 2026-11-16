@@ -1,0 +1,9 @@
+{
+  "region": "Viscount Melville Sound",
+  "source_workbook": "test52obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 8,
+  "input_sha256": "83de99dfaa0b333c62d86fa7586ed05045724aeacf0dff2320190a1158a45641",
+  "warnings": []
+}

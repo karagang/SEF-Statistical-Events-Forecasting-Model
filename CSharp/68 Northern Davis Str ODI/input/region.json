@@ -1,0 +1,9 @@
+{
+  "region": "Northern Davis Strait - ODI: Obs",
+  "source_workbook": "test68.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 10,
+  "input_sha256": "af658de86ca7795d5b255ae1e95a1d186749b90b84e5de065481c7e8b556973e",
+  "warnings": []
+}

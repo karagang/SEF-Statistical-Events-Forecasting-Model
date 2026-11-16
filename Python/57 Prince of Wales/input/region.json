@@ -1,0 +1,9 @@
+{
+  "region": "Prince of Wales - VCPI: Obs",
+  "source_workbook": "test57.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 6,
+  "input_sha256": "bffb6af36f64b621d2c836f680ecee09fc672cdd5d10a2d826713bb3421c462a",
+  "warnings": []
+}

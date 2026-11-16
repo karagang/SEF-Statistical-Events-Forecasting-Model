@@ -1,0 +1,9 @@
+{
+  "region": "Pond and Navy Board Inlets  CSIM",
+  "source_workbook": "test72.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 5,
+  "input_sha256": "51d9a7ea2f7df28d266e8aa1eb2c1f6862461ada47440b78270bbf0f05c9e7f2",
+  "warnings": []
+}

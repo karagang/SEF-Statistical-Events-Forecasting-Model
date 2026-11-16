@@ -1,0 +1,9 @@
+{
+  "region": "James Bay Area - Open Water: Obs and Med",
+  "source_workbook": "test17obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 3,
+  "input_sha256": "37c6720b4408ab946986ea43c01feb70923309ebb9def779272b63c9933438a9",
+  "warnings": []
+}

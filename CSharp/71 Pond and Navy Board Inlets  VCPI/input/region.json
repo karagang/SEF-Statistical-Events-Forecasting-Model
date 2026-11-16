@@ -1,0 +1,9 @@
+{
+  "region": "Pond Inlet and Navy Board Inlet - VCPI",
+  "source_workbook": "test71.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 6,
+  "input_sha256": "995e71c626f9b4aa1dad4b873b6ebf024be9918612cf6bc4cfe0a47efe94fad7",
+  "warnings": []
+}

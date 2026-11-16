@@ -1,0 +1,9 @@
+{
+  "region": "Jones Sound Area",
+  "source_workbook": "test46obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 7,
+  "input_sha256": "08cc731cc79d17c4ebd609ab9f5fd50e67809de8632527fff27e735320e18ab6",
+  "warnings": []
+}

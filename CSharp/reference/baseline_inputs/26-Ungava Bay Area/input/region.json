@@ -1,0 +1,9 @@
+{
+  "region": "Ungava Bay Area - Bergy Water",
+  "source_workbook": "test26obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 11,
+  "input_sha256": "c0cbe3c7d2f34503814210831e9939e26f5f96024c7eeade09aa169a9c2bddc9",
+  "warnings": []
+}

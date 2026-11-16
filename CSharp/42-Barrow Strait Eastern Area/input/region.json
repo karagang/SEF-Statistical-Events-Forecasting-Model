@@ -1,0 +1,9 @@
+{
+  "region": "Barrow Strait Eastern Area",
+  "source_workbook": "test42obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 11,
+  "input_sha256": "c0aa15661887be4e6b8a6dcc7c5970548cf6fa6824739abb6a554bcc35e5aa66",
+  "warnings": []
+}

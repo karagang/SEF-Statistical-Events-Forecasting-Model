@@ -1,0 +1,9 @@
+{
+  "region": "Frobisher Bay Area - Bergy Water",
+  "source_workbook": "test25obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 11,
+  "input_sha256": "28f4bd7d05009c64e636127f0ff2dc53a0b6dcc540599f1fb94d86c397bb38d9",
+  "warnings": []
+}

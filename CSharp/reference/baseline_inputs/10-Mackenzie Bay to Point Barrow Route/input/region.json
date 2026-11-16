@@ -1,0 +1,9 @@
+{
+  "region": "Mackenzie Bay to Point Barrow Route - Open Drift Ice",
+  "source_workbook": "test10obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 14,
+  "input_sha256": "d7461e615d7563a244b85aca6c88c9a420bee38b51fd9bb277cae65bdc4ed6ec",
+  "warnings": []
+}

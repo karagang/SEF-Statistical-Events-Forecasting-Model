@@ -1,0 +1,9 @@
+{
+  "region": "Lancaster Sound Area",
+  "source_workbook": "test37obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 6,
+  "input_sha256": "484bb4736398bed13900771617f6802ad605f7dab4ce75ca58c22f41569c868a",
+  "warnings": []
+}

@@ -1,0 +1,9 @@
+{
+  "region": "Norwegian Bay Southern Area",
+  "source_workbook": "test47obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 12,
+  "input_sha256": "a6a1d09f860348ef4103e0cb8d72135b5419774498ad31b4e60634b59e3cc3c6",
+  "warnings": []
+}

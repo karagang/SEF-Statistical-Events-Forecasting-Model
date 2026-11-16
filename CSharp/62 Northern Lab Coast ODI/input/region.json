@@ -1,0 +1,9 @@
+{
+  "region": "Northern Lab Coast ODI",
+  "source_workbook": "test62.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 3,
+  "input_sha256": "b731eb1cfe384364d8bea5e58502f99b42b53d15b2622ebca4b3d792d004d382",
+  "warnings": []
+}

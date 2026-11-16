@@ -1,0 +1,9 @@
+{
+  "region": "Peel Sound Area - Very Close Pack Ice (VCPI)",
+  "source_workbook": "test1obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 10,
+  "input_sha256": "63b9a680622ca4044d520620fc2de06dc54b8d9a43b5f2849b6eea6125387349",
+  "warnings": []
+}

@@ -1,0 +1,9 @@
+{
+  "region": "Wellington Channel Area",
+  "source_workbook": "test44obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 22,
+  "input_sha256": "cce361654a2dbaba612f38ecb0ad5e7bfbd543c4329e5c008405daf457aa51f2",
+  "warnings": []
+}

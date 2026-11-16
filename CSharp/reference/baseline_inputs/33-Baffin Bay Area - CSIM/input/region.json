@@ -1,0 +1,9 @@
+{
+  "region": "Baffin Bay Area - CSIM",
+  "source_workbook": "test33obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 8,
+  "input_sha256": "6b0c85e4f73c2159927ee85413e438bd2f8402af3c012ed4295b21d083c28137",
+  "warnings": []
+}

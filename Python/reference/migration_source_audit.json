@@ -1,0 +1,937 @@
+[
+  {
+    "folder": "1-Peel Sound Area",
+    "script": "test1-Peel-Sound-Area.py",
+    "workbook": "test1obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      10
+    ],
+    "nyz": 48,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D12),2)",
+      "=ROUND(AVERAGE(D4:D13),2)"
+    ]
+  },
+  {
+    "folder": "10-Mackenzie Bay to Point Barrow Route",
+    "script": "test10-Mackenzie-Bay-to-Point-Barrow.py",
+    "workbook": "test10obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      14
+    ],
+    "nyz": 44,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D16),2)",
+      "=ROUND(AVERAGE(D4:D17),2)"
+    ]
+  },
+  {
+    "folder": "13-Cape Lisburne to Point Barrow Route - Open drift",
+    "script": "test13-Cape-Lisburne-Point Barrow-ODI.py",
+    "workbook": "test13obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [],
+    "nyz": 44,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3,D13),2)",
+      "=ROUND(AVERAGE(D4,D14),2)"
+    ]
+  },
+  {
+    "folder": "14-Cape Lisburne to Point Barrow Route - CSIM",
+    "script": "test14-Cape-Lisburne-Point Barrow-CSIM.py",
+    "workbook": "test14obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      2
+    ],
+    "nyz": 53,
+    "warnings": [],
+    "formulas": [
+      "=AVERAGE(D3:D4)",
+      "=AVERAGE(D4:D5)"
+    ]
+  },
+  {
+    "folder": "16-Hudson Bay Area - Open Water",
+    "script": "test16-Hudson-Bay-Open-Water.py",
+    "workbook": "test16obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      12
+    ],
+    "nyz": 53,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D14),2)",
+      "=ROUND(AVERAGE(D4:D15),2)"
+    ]
+  },
+  {
+    "folder": "17-James Bay Area - Open Water",
+    "script": "test17-James-Bay-Open-Water.py",
+    "workbook": "test17obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      3
+    ],
+    "nyz": 53,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "19-Foxe Basin Area",
+    "script": "test19-Fox-Basin-Open-Water.py",
+    "workbook": "test19obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      26
+    ],
+    "nyz": 32,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D28),2)",
+      "=ROUND(AVERAGE(D4:D29),2)"
+    ]
+  },
+  {
+    "folder": "2-Larsen Sound Area",
+    "script": "test2-Larson-Sound-Area.py",
+    "workbook": "test2obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      9
+    ],
+    "nyz": 48,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D11),2)",
+      "=ROUND(AVERAGE(D4:D12),2)"
+    ]
+  },
+  {
+    "folder": "20-Coronation Gulf Area - Fracture",
+    "script": "test20-Coronation-Gulf-Area-Fracture.py",
+    "workbook": "test20obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      4
+    ],
+    "nyz": 54,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D6),2)",
+      "=ROUND(AVERAGE(D4:D7),2)"
+    ]
+  },
+  {
+    "folder": "21-Coronation Gulf Area - Open Water",
+    "script": "test21-Coronation-Gulf-Area-Open-Water.py",
+    "workbook": "test21obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      4
+    ],
+    "nyz": 50,
+    "warnings": [],
+    "formulas": [
+      "=AVERAGE(D7:D10)",
+      "=AVERAGE(D8:D11)"
+    ]
+  },
+  {
+    "folder": "23-Labrador Coast to Cape Chidley Area",
+    "script": "test23-Labrador-Coast-Cape-Chidley-Bergy-Water.py",
+    "workbook": "test23obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      4
+    ],
+    "nyz": 30,
+    "warnings": [],
+    "formulas": [
+      "=AVERAGE(D24:D27)",
+      "=AVERAGE(D25:D28)"
+    ]
+  },
+  {
+    "folder": "25-Frobisher Bay Area",
+    "script": "test25-Frobisher-Bay-Bergy-Water.py",
+    "workbook": "test25obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      11
+    ],
+    "nyz": 44,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D13),2)",
+      "=ROUND(AVERAGE(D4:D14),2)"
+    ]
+  },
+  {
+    "folder": "26-Ungava Bay Area",
+    "script": "test26-Ungava-Bay-Bergy-Water.py",
+    "workbook": "test26obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      11
+    ],
+    "nyz": 28,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D19:D29),2)",
+      "=ROUND(AVERAGE(D20:D30),2)"
+    ]
+  },
+  {
+    "folder": "27-Hudson Strait Area",
+    "script": "test27-Hudson-Strait-Bergy-Water.py",
+    "workbook": "test27obs.xlsx",
+    "first": 1971,
+    "last": 2025,
+    "n": 55,
+    "windows": [
+      11
+    ],
+    "nyz": 44,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D13),2)",
+      "=ROUND(AVERAGE(D4:D14),2)"
+    ]
+  },
+  {
+    "folder": "3-Queen Maud Area",
+    "script": "test3-Queen-Maud-Area.py",
+    "workbook": "test3obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      18
+    ],
+    "nyz": 39,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D20),2)",
+      "=ROUND(AVERAGE(D4:D21),2)"
+    ]
+  },
+  {
+    "folder": "32-Baffin Bay Northern Route - ODI",
+    "script": "test32-Baffin-Bay-Northern-Route-OD.py",
+    "workbook": "test32obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      9
+    ],
+    "nyz": 34,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D18:D26),2)",
+      "=ROUND(AVERAGE(D19:D27),2)"
+    ]
+  },
+  {
+    "folder": "33-Baffin Bay Area - CSIM",
+    "script": "test33-Baffin-Bay-Bergy-Water.py",
+    "workbook": "test33obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      8
+    ],
+    "nyz": 49,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D10),2)",
+      "=ROUND(AVERAGE(D4:D11),2)"
+    ]
+  },
+  {
+    "folder": "34-Baffin Bay Northern Route",
+    "script": "test34-Baffin-Bay-Northern-Route-Bergy-Water.py",
+    "workbook": "test34obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      28
+    ],
+    "nyz": 29,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D30),2)",
+      "=ROUND(AVERAGE(D4:D31),2)"
+    ]
+  },
+  {
+    "folder": "37-Lancaster Sound Area",
+    "script": "test37-Lancaster-Fracture.py",
+    "workbook": "test37obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      6
+    ],
+    "nyz": 51,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D8),2)",
+      "=ROUND(AVERAGE(D4:D9),2)"
+    ]
+  },
+  {
+    "folder": "4-Admundsen Gulf Area - VCPI",
+    "script": "test4-Admundsen-Gulf-VCPI.py",
+    "workbook": "test4obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      6
+    ],
+    "nyz": 51,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D8),2)",
+      "=ROUND(AVERAGE(D4:D9),2)"
+    ]
+  },
+  {
+    "folder": "40-Admiralty Inlet Northern Area  Fracture",
+    "script": "test40-Admiralty-Inlet-Northern-Area-Fracture.py",
+    "workbook": "test40obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      11
+    ],
+    "nyz": 46,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D13),2)",
+      "=ROUND(AVERAGE(D4:D14),2)"
+    ]
+  },
+  {
+    "folder": "41-Admiralty Inlet Northern Area  Bergy Water",
+    "script": "test41-Admiralty-Inlet-Northern-Area-Bergy-Water.py",
+    "workbook": "test41obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      8
+    ],
+    "nyz": 49,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D10),2)",
+      "=ROUND(AVERAGE(D4:D11),2)"
+    ]
+  },
+  {
+    "folder": "42-Barrow Strait Eastern Area",
+    "script": "test42-Barrow-Strait-Eastern-Area-Fracture.py",
+    "workbook": "test42obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      11
+    ],
+    "nyz": 46,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D13),2)",
+      "=ROUND(AVERAGE(D4:D14),2)"
+    ]
+  },
+  {
+    "folder": "43-Barrow Strait Western Area",
+    "script": "test43-Barrow-Strait-Western-Area-Fracture.py",
+    "workbook": "test43obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      10
+    ],
+    "nyz": 47,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D12),2)",
+      "=ROUND(AVERAGE(D4:D13),2)"
+    ]
+  },
+  {
+    "folder": "44-Wellington Channel Area",
+    "script": "test44-Wellington-Channel-Fracture .py",
+    "workbook": "test44obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      22
+    ],
+    "nyz": 35,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D24),2)",
+      "=ROUND(AVERAGE(D4:D25),2)"
+    ]
+  },
+  {
+    "folder": "45-McDougall Sound Area",
+    "script": "test45-McDougall-Sound Area-Fracture-VCPI.py",
+    "workbook": "test45obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      5
+    ],
+    "nyz": 52,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D7),2)",
+      "=ROUND(AVERAGE(D4:D8),2)"
+    ]
+  },
+  {
+    "folder": "46-Jones Sound Area",
+    "script": "test46-Jones-Sound-Area-VCPI.py",
+    "workbook": "test46obs.xlsx",
+    "first": 1987,
+    "last": 2025,
+    "n": 39,
+    "windows": [
+      7
+    ],
+    "nyz": 32,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D9),2)",
+      "=ROUND(AVERAGE(D4:D10),2)"
+    ]
+  },
+  {
+    "folder": "47-Norwegian Bay Southern Area",
+    "script": "test47-Norwegian-Bay-Southern-Area-VCPI.py",
+    "workbook": "test47obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      12
+    ],
+    "nyz": 46,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D14),2)",
+      "=ROUND(AVERAGE(D4:D15),2)"
+    ]
+  },
+  {
+    "folder": "48-Norwegian Bay Northern Area",
+    "script": "test48-Norwegian-Bay-Northern-Area-VCPI.py",
+    "workbook": "test48obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      6
+    ],
+    "nyz": 51,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D8),2)",
+      "=ROUND(AVERAGE(D4:D9),2)"
+    ]
+  },
+  {
+    "folder": "49-Eureka Sound Area  VCPI",
+    "script": "test49-Eureka-Sound-VCPI.py",
+    "workbook": "test49obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      4
+    ],
+    "nyz": 53,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D6),2)",
+      "=ROUND(AVERAGE(D4:D7),2)"
+    ]
+  },
+  {
+    "folder": "5-Admundsen Gulf Area - CSIM",
+    "script": "test5-Admundsen-Gulf-CSIM.py",
+    "workbook": "test5obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      5
+    ],
+    "nyz": 53,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D7),2)",
+      "=ROUND(AVERAGE(D4:D8),2)"
+    ]
+  },
+  {
+    "folder": "50-Eureka Sound Area  CSIM",
+    "script": "test50-Eureka-Sound-CSIM.py",
+    "workbook": "test50obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      10
+    ],
+    "nyz": 48,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D12),2)",
+      "=ROUND(AVERAGE(D4:D13),2)"
+    ]
+  },
+  {
+    "folder": "51-Western Kane Basin Area",
+    "script": "test51-Western-Kane-Basin-VCPI .py",
+    "workbook": "test51obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      12
+    ],
+    "nyz": 45,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D14),2)",
+      "=ROUND(AVERAGE(D4:D15),2)"
+    ]
+  },
+  {
+    "folder": "52-Viscount Melville Sound",
+    "script": "test52-Viscount-Melville-Sound-VCPI.py",
+    "workbook": "test52obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      8
+    ],
+    "nyz": 49,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D10),2)",
+      "=ROUND(AVERAGE(D4:D11),2)"
+    ]
+  },
+  {
+    "folder": "53-MClure Strait",
+    "script": "test53-MClure Strait-VCPI.py",
+    "workbook": "test53obs.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      12
+    ],
+    "nyz": 45,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D4:D15),2)",
+      "=ROUND(AVERAGE(D5:D16),2)"
+    ]
+  },
+  {
+    "folder": "54-Lake Melville - VCPI",
+    "script": "test54-Lake-Melville-VCPI.py",
+    "workbook": "test54obs.xlsx",
+    "first": 1970,
+    "last": 2025,
+    "n": 56,
+    "windows": [
+      11
+    ],
+    "nyz": 45,
+    "warnings": [
+      "workbook differs from yobs"
+    ],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D13),2)",
+      "=ROUND(AVERAGE(D4:D14),2)"
+    ]
+  },
+  {
+    "folder": "55-Lake Melville  Open Water",
+    "script": "test55-Lake-Melville-Open-Water.py",
+    "workbook": "test55obs.xlsx",
+    "first": 1970,
+    "last": 2025,
+    "n": 56,
+    "windows": [
+      9
+    ],
+    "nyz": 47,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D11),2)",
+      "=ROUND(AVERAGE(D4:D12),2)"
+    ]
+  },
+  {
+    "folder": "56 Victoria Str to Larsen Sound",
+    "script": "test56-Victoria-Strait-To-Larson-Sound-VCPI.py",
+    "workbook": "test56.xlsx",
+    "first": 1969,
+    "last": 2025,
+    "n": 57,
+    "windows": [
+      9
+    ],
+    "nyz": 47,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D4:D12),2)",
+      "=ROUND(AVERAGE(D5:D13),2)"
+    ]
+  },
+  {
+    "folder": "57 Prince of Wales",
+    "script": "test57-Prince-of-Wales-VCPI.py",
+    "workbook": "test57.xlsx",
+    "first": 1991,
+    "last": 2025,
+    "n": 35,
+    "windows": [
+      6
+    ],
+    "nyz": 29,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D8),2)",
+      "=ROUND(AVERAGE(D4:D9),2)"
+    ]
+  },
+  {
+    "folder": "58 Eastern Hudson Bay",
+    "script": "test58-Eastern-Hudson-Bay-CSIM.py",
+    "workbook": "test58.xlsx",
+    "first": 1991,
+    "last": 2025,
+    "n": 35,
+    "windows": [
+      5
+    ],
+    "nyz": 30,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D7),2)",
+      "=ROUND(AVERAGE(D4:D8),2)"
+    ]
+  },
+  {
+    "folder": "59 South Lab Coast   ODI",
+    "script": "test59-South-Lab-Coast -ODI.py",
+    "workbook": "test59.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      3
+    ],
+    "nyz": 33,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "6-Mackenzie Bay Area-CSIM",
+    "script": "test6-Mackenzie_Bay-CSIM.py",
+    "workbook": "test6obs.xlsx",
+    "first": 1968,
+    "last": 2025,
+    "n": 58,
+    "windows": [
+      7
+    ],
+    "nyz": 51,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D9),2)",
+      "=ROUND(AVERAGE(D4:D10),2)"
+    ]
+  },
+  {
+    "folder": "60 South Lab Coast  VODI",
+    "script": "test60-South-Lab-Coast-VODI.py",
+    "workbook": "test60.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      3
+    ],
+    "nyz": 33,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "61-South Lab Coast  CSIM",
+    "script": "test61-South-Lab-Coast-CSIM.py",
+    "workbook": "test61.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      3
+    ],
+    "nyz": 33,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "62 Northern Lab Coast ODI",
+    "script": "test62-Northern-Lab-Coast-ODI.py",
+    "workbook": "test62.xlsx",
+    "first": 1994,
+    "last": 2025,
+    "n": 32,
+    "windows": [
+      3
+    ],
+    "nyz": 29,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "63 Northern Lab Coast VODI",
+    "script": "test63-Northern-Lab-Coast-VODI.py",
+    "workbook": "test63.xlsx",
+    "first": 1994,
+    "last": 2025,
+    "n": 32,
+    "windows": [
+      3
+    ],
+    "nyz": 29,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "64 Northern Lab Coast CSIM",
+    "script": "test64-Northern-Lab-Coast-CSIM.py",
+    "workbook": "test64.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      14
+    ],
+    "nyz": 22,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D16),2)",
+      "=ROUND(AVERAGE(D4:D17),2)"
+    ]
+  },
+  {
+    "folder": "65 Southern Davis Str ODI",
+    "script": "test65-Southern-Davis-Strait-ODI.py",
+    "workbook": "test65.xlsx",
+    "first": 1989,
+    "last": 2025,
+    "n": 37,
+    "windows": [
+      3
+    ],
+    "nyz": 34,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D5),2)",
+      "=ROUND(AVERAGE(D4:D6),2)"
+    ]
+  },
+  {
+    "folder": "66 Southern Davis Str VODI",
+    "script": "test66-Southern-Davis-Strait-VODI.py",
+    "workbook": "test66.xlsx",
+    "first": 1995,
+    "last": 2025,
+    "n": 31,
+    "windows": [
+      2
+    ],
+    "nyz": 29,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D4),2)",
+      "=ROUND(AVERAGE(D4:D5),2)"
+    ]
+  },
+  {
+    "folder": "67 Southern Davis Str CSIM",
+    "script": "test67-Southern-Davis-Strait-CSIM.py",
+    "workbook": "test67.xlsx",
+    "first": 2001,
+    "last": 2025,
+    "n": 25,
+    "windows": [
+      2
+    ],
+    "nyz": 23,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D4),2)",
+      "=ROUND(AVERAGE(D4:D5),2)"
+    ]
+  },
+  {
+    "folder": "68 Northern Davis Str ODI",
+    "script": "test68-Northern-Davis-Strait-ODI.py",
+    "workbook": "test68.xlsx",
+    "first": 1995,
+    "last": 2025,
+    "n": 31,
+    "windows": [
+      10
+    ],
+    "nyz": 21,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D12),2)",
+      "=ROUND(AVERAGE(D4:D13),2)"
+    ]
+  },
+  {
+    "folder": "69  Northern Davis Str vodi",
+    "script": "test69-Northern-Davis-Strait-VODI.py",
+    "workbook": "test69.xlsx",
+    "first": 1995,
+    "last": 2025,
+    "n": 31,
+    "windows": [
+      8
+    ],
+    "nyz": 23,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D10),2)",
+      "=ROUND(AVERAGE(D4:D11),2)"
+    ]
+  },
+  {
+    "folder": "70 Northern Davis Str csim",
+    "script": "test70-Northern-Davis-Strait-CSIM.py",
+    "workbook": "test70.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      8
+    ],
+    "nyz": 28,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D10),2)",
+      "=ROUND(AVERAGE(D4:D11),2)"
+    ]
+  },
+  {
+    "folder": "71 Pond and Navy Board Inlets  VCPI",
+    "script": "test71-Pond-Inlet-and-Navy-Board-Inlet-VCPI.py",
+    "workbook": "test71.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      6
+    ],
+    "nyz": 27,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D8),2)",
+      "=ROUND(AVERAGE(D4:D9),2)"
+    ]
+  },
+  {
+    "folder": "72 Pond and Navy Board Inlets  CSIM",
+    "script": "test72-Pond-Inlet-and-Navy-Board-Inlet-CSIM.py",
+    "workbook": "test72.xlsx",
+    "first": 1990,
+    "last": 2025,
+    "n": 36,
+    "windows": [
+      5
+    ],
+    "nyz": 31,
+    "warnings": [],
+    "formulas": [
+      "=ROUND(AVERAGE(D3:D7),2)",
+      "=ROUND(AVERAGE(D4:D8),2)"
+    ]
+  }
+]

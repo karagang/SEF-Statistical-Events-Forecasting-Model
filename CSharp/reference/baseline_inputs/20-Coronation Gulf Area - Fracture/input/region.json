@@ -1,0 +1,9 @@
+{
+  "region": "Coronation Gulf Area - Fracture",
+  "source_workbook": "test20obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 4,
+  "input_sha256": "e06d2b7b2d63e701657092313fb2465d42d9642de5bec5084e78f64cc87a154f",
+  "warnings": []
+}

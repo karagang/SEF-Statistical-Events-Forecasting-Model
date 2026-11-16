@@ -1,0 +1,9 @@
+{
+  "region": "Mackenzie Bay Area - Complete Sea Ice Melt (CSIM)",
+  "source_workbook": "test6obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 7,
+  "input_sha256": "07472902cfc9250c704461fc2819a2328bb972e8b0744c310e14b53cf6ba3d3e",
+  "warnings": []
+}

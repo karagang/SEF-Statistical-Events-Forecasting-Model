@@ -1,0 +1,35 @@
+SEFM C# 1.0.0 - verification record
+
+Build: .NET SDK 10.0.404, net10.0-windows, win-x64, self-contained single-file executable.
+Source implementation: latest Python/sefm.py, with its original legacy-vector baselines.
+Numerical test cases: 274 supported Python smoothing/timing cases across all 55 regions.
+Original legacy vectors: all 55 regions.
+Assertions: 84,883.
+Maximum forecast/fit numerical difference: 6.25278E-13 day (tolerance 1E-7 day).
+All compared rounded DOYs and calendar dates match.
+Known-period FFT, constant series, expanding-window alignment, leap-year dates, rounding,
+invalid/duplicate/gapped observation years and 2027 year transition: passed.
+Self-tests use immutable reference/baseline_inputs, independent of future annual updates.
+Original workbook importer: all 55 workbooks reproduced all 2,741 copied Year/DOY observations.
+
+Generated products: 55/55 regions; 770 regional output files; 170-page PDF; 166-slide PPTX.
+PowerPoint: 110 native editable charts and 110 embedded workbooks.
+PowerPoint package integrity: passed, zero findings.
+PowerPoint layout and font policy: passed, zero findings/warnings.
+PowerPoint numerical chart/workbook validation: passed.
+First-party PowerPoint import: passed, 166 slides.
+Validated PPTX bytes match the C# application's generated PPTX bytes exactly.
+Representative PDF pages and charts were rendered and visually reviewed.
+The host's native presentation image renderer crashes; no claim of PowerPoint visual review.
+This preview renderer is not used by the C# application.
+
+Offline-runtime and report checks:
+PASS: Self-tests pass with Python, Node and installed dotnet removed from PATH, and DOTNET_ROOT pointing at a nonexistent runtime
+PASS: Wrong-year report rejected
+PASS: Unknown region rejected
+PASS: Stale report rejected
+PASS: Missing forecast rejected
+PASS: Mixed settings rejected
+PASS: Full 2027 forecast, plots, PDF and PowerPoint pipeline passed using an example 2026 observation in temporary data only
+PASS: Invalid input returns failure and records regional errors
+

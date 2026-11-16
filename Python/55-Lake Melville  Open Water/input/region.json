@@ -1,0 +1,9 @@
+{
+  "region": "Lake Melville  Open Water",
+  "source_workbook": "test55obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 9,
+  "input_sha256": "037945ca356b2a52598fac615d0cfc3323280e8f9aa07c2eca8703a609118b59",
+  "warnings": []
+}

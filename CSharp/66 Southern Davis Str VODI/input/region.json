@@ -1,0 +1,9 @@
+{
+  "region": "Southern Davis Strait - Very Open Drift Ice (VODI)",
+  "source_workbook": "test66.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 2,
+  "input_sha256": "a072d8aa20efc3bfdd64ea154f7f2be1c05c6e52e014bfd0a7605be9edacfe46",
+  "warnings": []
+}

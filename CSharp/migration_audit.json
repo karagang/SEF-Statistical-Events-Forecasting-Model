@@ -1,0 +1,554 @@
+[
+  {
+    "folder": "1-Peel Sound Area",
+    "region": "Peel Sound Area - Very Close Pack Ice (VCPI)",
+    "source_workbook": "test1obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 10,
+    "input_sha256": "63b9a680622ca4044d520620fc2de06dc54b8d9a43b5f2849b6eea6125387349",
+    "warnings": []
+  },
+  {
+    "folder": "2-Larsen Sound Area",
+    "region": "Larsen Sound Area - Very Close Pack Ice (VCPI)",
+    "source_workbook": "test2obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 9,
+    "input_sha256": "3019fd22c08b67c00dfc1cecf310ee12cac360a90a2036706b5f6fa98bb3343a",
+    "warnings": []
+  },
+  {
+    "folder": "3-Queen Maud Area",
+    "region": "Queen Maud Area - Very Close Pack Ice (VCPI)",
+    "source_workbook": "test3obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 18,
+    "input_sha256": "7e1c296ae8bc054d6ff7c05af76a372d1acad451a250ec4fdc05a0940ae8dc62",
+    "warnings": []
+  },
+  {
+    "folder": "4-Admundsen Gulf Area - VCPI",
+    "region": "Admundsen Gulf Area - Very Close Pack Ice (VCPI)",
+    "source_workbook": "test4obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 6,
+    "input_sha256": "58902481f4c92caf20fafde9ce21086d3fc312c76e26cb1cfb2208c08fa8461e",
+    "warnings": []
+  },
+  {
+    "folder": "5-Admundsen Gulf Area - CSIM",
+    "region": "Admundsen Gulf Area - Complete Sea Ice Melt (CSIM)",
+    "source_workbook": "test5obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 5,
+    "input_sha256": "1490aafcfdbdda6a7483665fd3855eb0b62b44d8f588528602638fb2e955c828",
+    "warnings": []
+  },
+  {
+    "folder": "6-Mackenzie Bay Area-CSIM",
+    "region": "Mackenzie Bay Area - Complete Sea Ice Melt (CSIM)",
+    "source_workbook": "test6obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 7,
+    "input_sha256": "07472902cfc9250c704461fc2819a2328bb972e8b0744c310e14b53cf6ba3d3e",
+    "warnings": []
+  },
+  {
+    "folder": "10-Mackenzie Bay to Point Barrow Route",
+    "region": "Mackenzie Bay to Point Barrow Route - Open Drift Ice",
+    "source_workbook": "test10obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 14,
+    "input_sha256": "d7461e615d7563a244b85aca6c88c9a420bee38b51fd9bb277cae65bdc4ed6ec",
+    "warnings": []
+  },
+  {
+    "folder": "13-Cape Lisburne to Point Barrow Route - Open drift",
+    "region": "Cape Lisburne to Point Barrow Route - Open Drift Ice",
+    "source_workbook": "test13obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": null,
+    "input_sha256": "fbe5fe3bf92a2a297f23fccbffa7119f8d08a464a00d1bcccbed1fc84935d195",
+    "warnings": []
+  },
+  {
+    "folder": "14-Cape Lisburne to Point Barrow Route - CSIM",
+    "region": "Cape Lisburne to Point Barrow Route - CSIM",
+    "source_workbook": "test14obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 2,
+    "input_sha256": "f8a3f792dc24c4908bfbacef6594f5bcad1afcef4812281968530994813c943a",
+    "warnings": []
+  },
+  {
+    "folder": "16-Hudson Bay Area - Open Water",
+    "region": "Hudson Bay Area - Open Water",
+    "source_workbook": "test16obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 12,
+    "input_sha256": "697e428fa4a876cc8c7aa8397a9fa68ee6874501d35c0de95a54b7b86467ad55",
+    "warnings": []
+  },
+  {
+    "folder": "17-James Bay Area - Open Water",
+    "region": "James Bay Area - Open Water: Obs and Med",
+    "source_workbook": "test17obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "37c6720b4408ab946986ea43c01feb70923309ebb9def779272b63c9933438a9",
+    "warnings": []
+  },
+  {
+    "folder": "19-Foxe Basin Area",
+    "region": "Foxe Basin Area - Open Water: Obs and Med",
+    "source_workbook": "test19obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 26,
+    "input_sha256": "2c1e87dd44ed9150ea6ece6997d7fa0b6c437aea157b8f1096523c4d29102acc",
+    "warnings": []
+  },
+  {
+    "folder": "20-Coronation Gulf Area - Fracture",
+    "region": "Coronation Gulf Area - Fracture",
+    "source_workbook": "test20obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 4,
+    "input_sha256": "e06d2b7b2d63e701657092313fb2465d42d9642de5bec5084e78f64cc87a154f",
+    "warnings": []
+  },
+  {
+    "folder": "21-Coronation Gulf Area - Open Water",
+    "region": "Coronation Gulf Area - CSIM - Open Water",
+    "source_workbook": "test21obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 4,
+    "input_sha256": "96e28eeb2d53e8d19cf2f18ebda8457df718c30f1d0b021d3519127cf661f033",
+    "warnings": []
+  },
+  {
+    "folder": "23-Labrador Coast to Cape Chidley Area",
+    "region": "Labrador Coast to Cape Chidley Area - Bergy Water",
+    "source_workbook": "test23obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 4,
+    "input_sha256": "dae60c1a1e245a7f0c35f38fc0db74abc877d566aa05ccede8f34c7690dc4280",
+    "warnings": []
+  },
+  {
+    "folder": "25-Frobisher Bay Area",
+    "region": "Frobisher Bay Area - Bergy Water",
+    "source_workbook": "test25obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "28f4bd7d05009c64e636127f0ff2dc53a0b6dcc540599f1fb94d86c397bb38d9",
+    "warnings": []
+  },
+  {
+    "folder": "26-Ungava Bay Area",
+    "region": "Ungava Bay Area - Bergy Water",
+    "source_workbook": "test26obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "c0cbe3c7d2f34503814210831e9939e26f5f96024c7eeade09aa169a9c2bddc9",
+    "warnings": []
+  },
+  {
+    "folder": "27-Hudson Strait Area",
+    "region": "Hudson Strait Area - Bergy Water",
+    "source_workbook": "test27obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "448d3aa76f3989900002b87f2a242c45ae110d61fb05a36062d430aeacfc662e",
+    "warnings": []
+  },
+  {
+    "folder": "32-Baffin Bay Northern Route - ODI",
+    "region": "Baffin Bay Northern Route - ODI",
+    "source_workbook": "test32obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 9,
+    "input_sha256": "f2ce4a0eaf5990d80e7cbc62b6d268d9f11c45ef483595b116d9c42ac4f40933",
+    "warnings": []
+  },
+  {
+    "folder": "33-Baffin Bay Area - CSIM",
+    "region": "Baffin Bay Area - CSIM",
+    "source_workbook": "test33obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 8,
+    "input_sha256": "6b0c85e4f73c2159927ee85413e438bd2f8402af3c012ed4295b21d083c28137",
+    "warnings": []
+  },
+  {
+    "folder": "34-Baffin Bay Northern Route",
+    "region": "Baffin Bay Northern Route",
+    "source_workbook": "test34obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 28,
+    "input_sha256": "04acdf446c05569f214e4406598fe0e9f2c6a31d39148eaa1124819581bd5868",
+    "warnings": []
+  },
+  {
+    "folder": "37-Lancaster Sound Area",
+    "region": "Lancaster Sound Area",
+    "source_workbook": "test37obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 6,
+    "input_sha256": "484bb4736398bed13900771617f6802ad605f7dab4ce75ca58c22f41569c868a",
+    "warnings": []
+  },
+  {
+    "folder": "40-Admiralty Inlet Northern Area  Fracture",
+    "region": "Admiralty Inlet Northern Area  Fracture",
+    "source_workbook": "test40obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "7f0d68728f8085a7aa53631fe8b463151be79e68de705544c94339877c085533",
+    "warnings": []
+  },
+  {
+    "folder": "41-Admiralty Inlet Northern Area  Bergy Water",
+    "region": "Admiralty Inlet Northern Area  Bergy Water",
+    "source_workbook": "test41obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 8,
+    "input_sha256": "b139468c8f2c9a520e6c68c6fe4a715257bb6c769e1934ebabf55be683e7e99a",
+    "warnings": []
+  },
+  {
+    "folder": "42-Barrow Strait Eastern Area",
+    "region": "Barrow Strait Eastern Area",
+    "source_workbook": "test42obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "c0aa15661887be4e6b8a6dcc7c5970548cf6fa6824739abb6a554bcc35e5aa66",
+    "warnings": []
+  },
+  {
+    "folder": "43-Barrow Strait Western Area",
+    "region": "Barrow Strait Western Area",
+    "source_workbook": "test43obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 10,
+    "input_sha256": "8b6e60071d1ec75b99e41d33de5184fd28577a9dc38af057483d4e72c9bb0334",
+    "warnings": []
+  },
+  {
+    "folder": "44-Wellington Channel Area",
+    "region": "Wellington Channel Area",
+    "source_workbook": "test44obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 22,
+    "input_sha256": "cce361654a2dbaba612f38ecb0ad5e7bfbd543c4329e5c008405daf457aa51f2",
+    "warnings": []
+  },
+  {
+    "folder": "45-McDougall Sound Area",
+    "region": "McDougall Sound Area",
+    "source_workbook": "test45obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 5,
+    "input_sha256": "9bc5bff34180843a1b536900d25af2689d7d7fbd17b60177169950c59a296ae6",
+    "warnings": []
+  },
+  {
+    "folder": "46-Jones Sound Area",
+    "region": "Jones Sound Area",
+    "source_workbook": "test46obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 7,
+    "input_sha256": "08cc731cc79d17c4ebd609ab9f5fd50e67809de8632527fff27e735320e18ab6",
+    "warnings": []
+  },
+  {
+    "folder": "47-Norwegian Bay Southern Area",
+    "region": "Norwegian Bay Southern Area",
+    "source_workbook": "test47obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 12,
+    "input_sha256": "a6a1d09f860348ef4103e0cb8d72135b5419774498ad31b4e60634b59e3cc3c6",
+    "warnings": []
+  },
+  {
+    "folder": "48-Norwegian Bay Northern Area",
+    "region": "Norwegian Bay Northern Area",
+    "source_workbook": "test48obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 6,
+    "input_sha256": "d377636f19f8c6fe569feadb3d0f53a2fd5caaef47d2388915f31f382fe02353",
+    "warnings": []
+  },
+  {
+    "folder": "49-Eureka Sound Area  VCPI",
+    "region": "Eureka Sound Area  VCPI",
+    "source_workbook": "test49obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 4,
+    "input_sha256": "60558a4b158f75b23bff880917da1fec6e57bd5f4963e1e3efb34da2a396621c",
+    "warnings": []
+  },
+  {
+    "folder": "50-Eureka Sound Area  CSIM",
+    "region": "Eureka Sound Area  CSIM",
+    "source_workbook": "test50obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 10,
+    "input_sha256": "983a363cee8e2863b518a77edef3bb37b0932bf6b7ce4708e08d49628908bbf3",
+    "warnings": []
+  },
+  {
+    "folder": "51-Western Kane Basin Area",
+    "region": "Western Kane Basin Area",
+    "source_workbook": "test51obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 12,
+    "input_sha256": "f6b8143c62524002b657a5bdbc065d39729cc5f8ef852fbab638e1a59c81ea51",
+    "warnings": []
+  },
+  {
+    "folder": "52-Viscount Melville Sound",
+    "region": "Viscount Melville Sound",
+    "source_workbook": "test52obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 8,
+    "input_sha256": "83de99dfaa0b333c62d86fa7586ed05045724aeacf0dff2320190a1158a45641",
+    "warnings": []
+  },
+  {
+    "folder": "53-MClure Strait",
+    "region": "MClure Strait",
+    "source_workbook": "test53obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 12,
+    "input_sha256": "2c2362c950672387dda3f703f4912e7560e2fe4e1a24eceb0939cab5adb0d924",
+    "warnings": []
+  },
+  {
+    "folder": "54-Lake Melville - VCPI",
+    "region": "Lake Melville - VCPI",
+    "source_workbook": "test54obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 11,
+    "input_sha256": "e316e02f151098cfb4abdb1ad3b2b01f147e4e425e5f8bd655c88d19b05acb37",
+    "warnings": [
+      "Workbook observations differ from yobs.txt; CSV uses the workbook as requested."
+    ]
+  },
+  {
+    "folder": "55-Lake Melville  Open Water",
+    "region": "Lake Melville  Open Water",
+    "source_workbook": "test55obs.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 9,
+    "input_sha256": "037945ca356b2a52598fac615d0cfc3323280e8f9aa07c2eca8703a609118b59",
+    "warnings": []
+  },
+  {
+    "folder": "56 Victoria Str to Larsen Sound",
+    "region": "Victoria Strait To Larson Sound - VCPI: Obs",
+    "source_workbook": "test56.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 9,
+    "input_sha256": "7acef1775c978530c98150807f5c796ff776e572198dc4262fc06f2d5d39737d",
+    "warnings": []
+  },
+  {
+    "folder": "57 Prince of Wales",
+    "region": "Prince of Wales - VCPI: Obs",
+    "source_workbook": "test57.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 6,
+    "input_sha256": "bffb6af36f64b621d2c836f680ecee09fc672cdd5d10a2d826713bb3421c462a",
+    "warnings": []
+  },
+  {
+    "folder": "58 Eastern Hudson Bay",
+    "region": "Eastern Hudson Bay",
+    "source_workbook": "test58.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 5,
+    "input_sha256": "151f86d047bca56fdea2ca33d35a1c0db94dbd3daa4c34bc32201952e4e0e25b",
+    "warnings": []
+  },
+  {
+    "folder": "59 South Lab Coast   ODI",
+    "region": "South Lab Coast   ODI",
+    "source_workbook": "test59.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "7263d29755eaeae3d2cae37d2383e64b9fc16d39ec89230e0682976612697429",
+    "warnings": []
+  },
+  {
+    "folder": "60 South Lab Coast  VODI",
+    "region": "South Lab Coast  VODI",
+    "source_workbook": "test60.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "8b2f0ac7b5941da6965cad1c847d358104ed2850d740c933e307dce2d40f2d72",
+    "warnings": []
+  },
+  {
+    "folder": "61-South Lab Coast  CSIM",
+    "region": "South Lab Coast  CSIM",
+    "source_workbook": "test61.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "8a6391220cd4110b3e7a0cd8aa3adfd2505f07a538842bf41b161780f2e2c606",
+    "warnings": []
+  },
+  {
+    "folder": "62 Northern Lab Coast ODI",
+    "region": "Northern Lab Coast ODI",
+    "source_workbook": "test62.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "b731eb1cfe384364d8bea5e58502f99b42b53d15b2622ebca4b3d792d004d382",
+    "warnings": []
+  },
+  {
+    "folder": "63 Northern Lab Coast VODI",
+    "region": "Northern Lab Coast VODI",
+    "source_workbook": "test63.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "92e1ab94bafa6d22da22c4e0fea159c6c33cf9c4155adc888cc15452a2f76a2c",
+    "warnings": []
+  },
+  {
+    "folder": "64 Northern Lab Coast CSIM",
+    "region": "Northern Lab Coast CSIM",
+    "source_workbook": "test64.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 14,
+    "input_sha256": "8956d3826b227b13e3ecd108bfa263b042970ae6488ab9916bb6a1ad7e1540b9",
+    "warnings": []
+  },
+  {
+    "folder": "65 Southern Davis Str ODI",
+    "region": "Southern Davis Str ODI",
+    "source_workbook": "test65.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 3,
+    "input_sha256": "ee1422497c93276e331693ad7c41e758cc7b9debd0d87208d9b10b2c8f8b8bfc",
+    "warnings": []
+  },
+  {
+    "folder": "66 Southern Davis Str VODI",
+    "region": "Southern Davis Strait - Very Open Drift Ice (VODI)",
+    "source_workbook": "test66.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 2,
+    "input_sha256": "a072d8aa20efc3bfdd64ea154f7f2be1c05c6e52e014bfd0a7605be9edacfe46",
+    "warnings": []
+  },
+  {
+    "folder": "67 Southern Davis Str CSIM",
+    "region": "Southern Davis Str CSIM",
+    "source_workbook": "test67.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 2,
+    "input_sha256": "092e7ca898b4a083e277326a6cbdc36b7962f83f39434f456eae138a5df1bddb",
+    "warnings": []
+  },
+  {
+    "folder": "68 Northern Davis Str ODI",
+    "region": "Northern Davis Strait - ODI: Obs",
+    "source_workbook": "test68.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 10,
+    "input_sha256": "af658de86ca7795d5b255ae1e95a1d186749b90b84e5de065481c7e8b556973e",
+    "warnings": []
+  },
+  {
+    "folder": "69  Northern Davis Str vodi",
+    "region": "Northern Davis Strait - VODI: Obs",
+    "source_workbook": "test69.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 8,
+    "input_sha256": "143348be92cf7ad6bae696a54d83be2b6f3fbd57ccc2e855e85ee8e8f325ed8f",
+    "warnings": []
+  },
+  {
+    "folder": "70 Northern Davis Str csim",
+    "region": "Northern Davis Strait - CSIM: Obs",
+    "source_workbook": "test70.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 8,
+    "input_sha256": "816c0ec061897925313c287ad9a54462ba2668e16a9c93814036588fe4ff4908",
+    "warnings": []
+  },
+  {
+    "folder": "71 Pond and Navy Board Inlets  VCPI",
+    "region": "Pond Inlet and Navy Board Inlet - VCPI",
+    "source_workbook": "test71.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 6,
+    "input_sha256": "995e71c626f9b4aa1dad4b873b6ebf024be9918612cf6bc4cfe0a47efe94fad7",
+    "warnings": []
+  },
+  {
+    "folder": "72 Pond and Navy Board Inlets  CSIM",
+    "region": "Pond and Navy Board Inlets  CSIM",
+    "source_workbook": "test72.xlsx",
+    "source_columns": "A (Year), C (Obs)",
+    "migration_last_year": 2025,
+    "workbook_window": 5,
+    "input_sha256": "51d9a7ea2f7df28d266e8aa1eb2c1f6862461ada47440b78270bbf0f05c9e7f2",
+    "warnings": []
+  }
+]

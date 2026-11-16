@@ -1,0 +1,9 @@
+{
+  "region": "Admiralty Inlet Northern Area  Bergy Water",
+  "source_workbook": "test41obs.xlsx",
+  "source_columns": "A (Year), C (Obs)",
+  "migration_last_year": 2025,
+  "workbook_window": 8,
+  "input_sha256": "b139468c8f2c9a520e6c68c6fe4a715257bb6c769e1934ebabf55be683e7e99a",
+  "warnings": []
+}
